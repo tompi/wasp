@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "wasp1.kicad_pro",
+    "filename": "wasp.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -366,7 +366,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "wasp1.dsn",
+      "specctra_dsn": "wasp.dsn",
       "step": "",
       "vrml": ""
     },
